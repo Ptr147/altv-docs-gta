@@ -1,4 +1,4 @@
-- name: Documentation
+- name: 文档
   href: articles/toc.yml
   homepage: articles/tutorials/index.md
 - name: API

@@ -26,6 +26,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v1.1.3
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          repository: altmp/altv-docs
+          repository: Ptr147/altv-docs-cn
           event-type: Update GTA documentation
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
