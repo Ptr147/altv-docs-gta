@@ -1,6 +1,6 @@
-- name: Cayo Perico Island
+- name: 佩里科岛
   href: cayo-perico.md
-- name: Minimap Position
+- name: 小地图位置
   href: minimap-position.md
-- name: Model Loading
+- name: 模型加载
   href: request-model.md
