@@ -1,18 +1,18 @@
-- name: Tutorials
+- name: 教程
   href: tutorials/toc.yml
   topicHref: tutorials/index.md
 - name: Peds
   href: ped/toc.yml
   topicHref: ped/index.md
-- name: Vehicle
+- name: 载具
   href: vehicle/toc.yml
   topicHref: vehicle/index.md
-- name: Weapons
+- name: 武器
   href: weapons/toc.yml
   topicHref: weapons/index.md
-- name: References
+- name: 参考
   href: references/toc.yml
   topicHref: references/index.md
-- name: Snippets
+- name: 代码片段
   href: snippets/toc.yml
   topicHref: snippets/index.md
